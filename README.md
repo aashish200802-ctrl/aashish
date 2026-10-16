@@ -101,17 +101,7 @@ A creative soul who loves anime, cinematic edits and the beauty of nature.
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050B0D&title_color=76F7B5&icon_color=76F7B5&text_color=E6F1F3&rank_icon=github" alt="GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050B0D&title_color=76F7B5&text_color=E6F1F3" alt="Most used languages"/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050B0D&ring=76F7B5&fire=F5A76D&currStreakLabel=76F7B5&sideLabels=E6F1F3&dates=9AAAB2" alt="GitHub contribution streak"/>
-
-</div>
 
 ## 🟩 Contribution Graph
 
