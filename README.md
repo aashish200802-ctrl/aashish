@@ -103,13 +103,8 @@ A creative soul who loves anime, cinematic edits and the beauty of nature.
 
 
 
-## 🟩 Contribution Graph
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050B0D&color=76F7B5&line=42D392&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
-
-</div>
 
 ---
 
