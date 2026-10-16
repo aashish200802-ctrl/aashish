@@ -1,139 +1,127 @@
-
-<!--
-  AASHISH | ANIME x NATURE x CREATIVE EDITOR
-  Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
--->
-
+<!-- Header Banner -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:02090b,35:102a35,70:162b35,100:02090b&height=220&section=header&text=AASHISH&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=EDITOR%20%7C%20ANIME%20LOVER%20%7C%20DREAMER&descSize=15&descAlignY=65" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=76F7B5&center=true&vCenter=true&width=650&lines=Better+Edits.+Better+Days.+Bigger+Dreams.;Turning+Ideas+Into+Visual+Stories;Anime+%7C+Nature+%7C+Creativity;Dream.+Create.+Grow." alt="Typing SVG" />
-
-<br/>
-
-*「 Chase your dreams, one frame at a time 」*
-
-[![GitHub](https://img.shields.io/badge/GitHub-050a0c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-050a0c?style=for-the-badge&logo=instagram&logoColor=E879F9)](https://instagram.com/YOUR_INSTAGRAM)
-[![YouTube](https://img.shields.io/badge/YouTube-050a0c?style=for-the-badge&logo=youtube&logoColor=FF4545)](https://youtube.com/@YOUR_YOUTUBE)
-
+  <img src="https://via.placeholder.com/1200x300/1e1e2e/ffffff?text=AASHISH+%7C+Editor+%7C+Anime+Lover+%7C+Dreamer" width="100%" alt="Header Banner" />
+  <p><i>"Better Edits • Better Days • Bigger Dreams"</i></p>
 </div>
 
----
+<hr />
 
+<!-- Main Content Grid -->
 <table>
-<tr>
-<td width="34%" valign="top">
+  <tr>
+    <!-- Left Column (Bio & Intro) -->
+    <td width="30%" valign="top">
+      <div align="center">
+        <img src="https://via.placeholder.com/150/1e1e2e/ffffff?text=Avatar" width="150" style="border-radius: 50%;" alt="Profile Picture" />
+        <h2>Aashish</h2>
+        <p><i>Dream • Create • Grow</i></p>
+      </div>
+      <p>
+        Hi, I'm Aashish. I'm a creative soul who loves anime, video editing, and nature. I turn ideas into visuals and moments into stories. Always learning, always creating.
+      </p>
+      <br />
+      <p>📍 <b>Location:</b> India</p>
+      <p>🎭 <b>Role:</b> Dreamer | Creator | Student</p>
+      <p>💡 <b>Interests:</b> Anime | Editing | Nature</p>
+      <br />
+      <blockquote align="center">
+        <i>"Not just a creator, but a storyteller."</i>
+      </blockquote>
+      
+      <!-- Added Your Video/Edit Showcase Section -->
+      <div align="center">
+        <h3>🎬 Latest Edit Work</h3>
+        <!-- Yahan aap apne video edit ka GIF ya screenshot ka link laga sakte hain -->
+        <img src="https://via.placeholder.com/300x400/1e1e2e/ffffff?text=Anime+Edit+Preview" width="100%" alt="Anime Edit" />
+        <p><i>"Sanso ki mala pe simru main pee ka naam..."</i>[span_1](start_span)[span_1](end_span)</p>
+      </div>
+    </td>
 
-## 🌸 About Me
+    <!-- Center Column (Toolkit, Skills & Galleries) -->
+    <td width="45%" valign="top">
+      <h3>🧪 My Creative Toolkit</h3>
+      <p>Tools I use to create, edit and bring ideas to life.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+        <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=CapCut&logoColor=white" />
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
+        <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black" />
+        <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black" />
+      </p>
 
-<img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=600&auto=format&fit=crop&q=80" width="100%" alt="Peaceful mountain landscape"/>
+      <hr />
 
-### Hey, I'm Aashish!
+      <h3></> Skills</h3>
+      <p>Things I'm good at (and always improving).</p>
+      <p>
+        <code>Video Editing</code> <code>Graphic Design</code> <code>Photo Editing</code><br />
+        <code>Storytelling</code> <code>Creativity</code> <code>Problem Solving</code> <code>Teamwork</code>
+      </p>
 
-A creative soul who loves anime, cinematic edits and the beauty of nature.
+      <hr />
 
-- 🎬 Video Editor
-- 🎨 Creative Explorer
-- 🌌 Anime Lover
-- 🌿 Nature Enthusiast
-- 📚 Always Learning
-- ✨ Dreamer & Creator
+      <h3>⭐ Anime Vibes</h3>
+      <p>Different worlds, same emotions.</p>
+      <table>
+        <tr>
+          <td align="center"><img src="https://via.placeholder.com/80/1e1e2e/ffffff?text=Your+Name" /><br /><sub><b>Your Name</b></sub></td>
+          <td align="center"><img src="https://via.placeholder.com/80/1e1e2e/ffffff?text=Demon+Slayer" /><br /><sub><b>Demon Slayer</b></sub></td>
+          <td align="center"><img src="https://via.placeholder.com/80/1e1e2e/ffffff?text=Naruto" /><br /><sub><b>Naruto</b></sub></td>
+          <td align="center"><img src="https://via.placeholder.com/80/1e1e2e/ffffff?text=AOT" /><br /><sub><b>Attack on Titan</b></sub></td>
+          <td align="center"><img src="https://via.placeholder.com/80/1e1e2e/ffffff?text=JJK" /><br /><sub><b>Jujutsu Kaisen</b></sub></td>
+        </tr>
+      </table>
 
-**My philosophy**
+      <hr />
 
-> Not just a creator,  
-> but a storyteller.
+      <h3>🌿 Nature</h3>
+      <p>Peace in nature, power in silence.</p>
+      <table>
+        <tr>
+          <td align="center"><img src="https://via.placeholder.com/80/1e1e2e/ffffff?text=Mountains" /><br /><sub>Mountains</sub></td>
+          <td align="center"><img src="https://via.placeholder.com/80/1e1e2e/ffffff?text=Forests" /><br /><sub>Forests</sub></td>
+          <td align="center"><img src="https://via.placeholder.com/80/1e1e2e/ffffff?text=Sunsets" /><br /><sub>Sunsets</sub></td>
+          <td align="center"><img src="https://via.placeholder.com/80/1e1e2e/ffffff?text=Peace" /><br /><sub>Peace</sub></td>
+          <td align="center"><img src="https://via.placeholder.com/80/1e1e2e/ffffff?text=Always" /><br /><sub>Always</sub></td>
+        </tr>
+      </table>
+    </td>
 
-</td>
-<td width="66%" valign="top">
+    <!-- Right Column (Stats & Connect) -->
+    <td width="25%" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <p>My journey in numbers</p>
+      
+      <!-- GitHub Stats Card (Apna Github Username 'your-username' ki jagah dalein) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true" width="100%" alt="GitHub Stats" />
+      
+      <!-- Top Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true" width="100%" alt="Top Languages" />
 
-## 🛠️ My Creative Toolkit
+      <hr />
 
-*Tools I use to bring ideas to life.*
+      <div align="center">
+        <img src="https://via.placeholder.com/300x100/1e1e2e/ffffff?text=Quote+Banner" width="100%" alt="Quote Banner" />
+        <p><i>"In a world full of noise, find your peace, create your own path."</i><br /><b>- Aashish</b></p>
+      </div>
 
-<p align="center">
-<a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /></a>
-<a href="https://www.capcut.com/"><img src="https://img.shields.io/badge/CapCut-111111?style=for-the-badge&logo=capcut&logoColor=white" /></a>
-<a href="https://www.vlognow.me/"><img src="https://img.shields.io/badge/VN-222222?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /></a>
-<a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/Premiere_Pro-1B103F?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" /></a>
-<a href="https://www.adobe.com/products/aftereffects.html"><img src="https://img.shields.io/badge/After_Effects-1B103F?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" /></a>
-</p>
+      <hr />
 
-## 🌿 My Skills
-
-![Video Editing](https://img.shields.io/badge/Video_Editing-102D2B?style=flat-square&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic_Design-102D2B?style=flat-square)
-![Photo Editing](https://img.shields.io/badge/Photo_Editing-102D2B?style=flat-square)
-![Storytelling](https://img.shields.io/badge/Storytelling-102D2B?style=flat-square)
-![Creativity](https://img.shields.io/badge/Creativity-102D2B?style=flat-square)
-![Learning](https://img.shields.io/badge/Always_Learning-102D2B?style=flat-square)
-
-## 🎞️ My Creative Universe
-
-| Anime Vibes | Nature Vibes |
-|:---:|:---:|
-| 🌌 Your Name | 🏔️ Mountains |
-| ⚔️ Demon Slayer | 🌲 Forests |
-| 🍥 Naruto | 🌅 Sunsets |
-| 🧣 Attack on Titan | 🌊 Lakes |
-| 🔥 Jujutsu Kaisen | 🌿 Peace |
-
-</td>
-</tr>
+      <h3>🔗 Connect With Me</h3>
+      <p>Let's create something amazing together.</p>
+      <p align="center">
+        <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+        <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
----
-
+<br />
 <div align="center">
-
-## 🌄 Nature Is My Therapy
-
-<img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1000&auto=format&fit=crop&q=85" width="100%" alt="Golden sunset over a beautiful landscape"/>
-
-*“In a world full of noise, find your peace, create your own path.”*
-
+  <p>🌱 <i>"The best is yet to come...."</i> 🌱</p>
+  <p><b>GOOD VIBES • GREAT EDITS • BIG DREAMS</b></p>
 </div>
 
----
-
-
-
-
-
-
----
-
-## 🌱 Currently Growing
-
-- 🎬 Improving my video editing skills.
-- 🎨 Exploring new visual styles and color grading.
-- 🌌 Finding inspiration in anime and cinematic landscapes.
-- 💻 Learning and building new things.
-- 🚀 Turning small ideas into bigger projects.
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-050B0D?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-050B0D?style=for-the-badge&logo=instagram&logoColor=E879F9" />
-</a>
-<a href="https://youtube.com/@YOUR_YOUTUBE">
-<img src="https://img.shields.io/badge/YouTube-050B0D?style=for-the-badge&logo=youtube&logoColor=FF4545" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:02090b,50:16372d,100:02090b&height=100&section=footer&text=GOOD%20VIBES%20%20%E2%80%A2%20%20GREAT%20EDITS%20%20%E2%80%A2%20%20BIG%20DREAMS&fontSize=17&fontColor=76F7B5" width="100%" />
-
-**♡ The best is yet to come...**
-
-</div>
